@@ -1,3 +1,4 @@
+/* These are the general stylings for root and body... */
 @import url("https://fonts.googleapis.com/css2?family=Young+Serif&display=swap");
 
 * {
@@ -19,6 +20,7 @@ h1 {
   margin: 10px;
 }
 
+/* These are the stylings for boxes and its translating animation... */
 .box {
   width: 400px;
   height: 200px;
